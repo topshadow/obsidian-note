@@ -11,14 +11,9 @@
             "id": "b40bb8f43742975d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "dialy/任务看板.md"
               }
             }
           },
@@ -116,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "dialy/任务看板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "dialy/任务看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "dialy/任务看板.md"
               }
             }
           },
@@ -253,15 +247,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "be3c2339835b586f",
+  "active": "b40bb8f43742975d",
   "lastOpenFiles": [
+    "onlyoffice集成自定义组件.md",
+    "未命名.canvas",
     "dialy/2023-03-21.md",
     "dialy/任务看板.md",
     "dialy/日记.canvas",
     "2023-03-24.md",
     "learn/sourceread/onlyoffice/onlyoffice 流程图.md",
-    "未命名.canvas",
-    "onlyoffice集成自定义组件.md",
     "learn/sourceread/onlyoffice/server/_DocService.md.md",
     "Excalidraw/Drawing 2023-03-24 16.16.04.excalidraw.md",
     "Excalidraw/Drawing 2023-03-24 16.14.56.excalidraw.md",
