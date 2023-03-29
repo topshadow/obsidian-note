@@ -11,9 +11,11 @@
             "id": "b40bb8f43742975d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "dialy/任务看板.md"
+                "file": "2023-03-27.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-24.md",
+                "file": "dialy/2023-03-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dialy/任务看板.md",
+                "file": "2023-03-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dialy/任务看板.md",
+                "file": "2023-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dialy/任务看板.md"
+                "file": "2023-03-27.md"
               }
             }
           },
@@ -247,19 +249,39 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "b40bb8f43742975d",
+  "active": "be3c2339835b586f",
   "lastOpenFiles": [
+    "dialy/任务看板.md",
+    "2023-03-27.md",
+    "dialy/日记.canvas",
+    "dialy/2023-03-26.md",
+    "Excalidraw/微前端事件处理模型.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-24 16.20.39.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
+    "未命名 1.canvas",
+    "Excalidraw/排队叫号.excalidraw.md",
+    "dialy/2023-03-25.md",
+    "Excalidraw/micro-app-drat.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/system-design.excalidrawlib",
+    "Excalidraw/Scripts/Downloaded/aws-architecture-icons.excalidrawlib",
+    "Excalidraw/Scripts/Downloaded/architecture-diagram-components.excalidrawlib",
+    "Excalidraw/Scripts/Downloaded/forms.excalidrawlib",
+    "Excalidraw/Scripts/Downloaded/stick-figures.excalidrawlib",
+    "Excalidraw/Scripts/Downloaded/gantt.excalidrawlib",
+    "Excalidraw/Scripts/Downloaded/stick-people.excalidrawlib",
+    "dialy/未命名.md",
+    "dialy/2023-03-21.md",
+    "Excalidraw/Scripts/Downloaded/software-architecture.excalidrawlib",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/Drawing 2023-03-26 00.58.15.excalidraw.md",
+    "dialy/2023-03-24.md",
     "onlyoffice集成自定义组件.md",
     "未命名.canvas",
-    "dialy/2023-03-21.md",
-    "dialy/任务看板.md",
-    "dialy/日记.canvas",
-    "2023-03-24.md",
     "learn/sourceread/onlyoffice/onlyoffice 流程图.md",
     "learn/sourceread/onlyoffice/server/_DocService.md.md",
     "Excalidraw/Drawing 2023-03-24 16.16.04.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-24 16.14.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-24 16.15.30.excalidraw.md",
     "learn/sourceread/onlyoffice/word/onlyoffice-sdkjs-word-api.js.md",
     "learn/sourceread/onlyoffice/server/server.js.md",
     "learn/sourceread/onlyoffice/server/onlyoffice-server-readme.md.md",
@@ -267,16 +289,6 @@
     "learn/sourceread/onlyoffice/server/fileConverter.md",
     "_DocService.md^ms.md",
     "learn/sourceread/onlyoffice/概述.md",
-    "learn/sourceread/onlyoffice/server",
-    "learn/sourceread/onlyoffice/onlyoffice-sdkjs-common-apiBase.js.md",
-    "learn/sourceread/onlyoffice/word",
-    "Excalidraw/Drawing 2023-03-24 16.20.39.excalidraw.md",
-    "learn",
-    "Excalidraw/Drawing 2023-03-24 16.16.40.excalidraw.md",
-    "Excalidraw",
-    "public.rar",
-    "learn/sourceread/onlyoffice",
-    "learn/sourceread",
-    "dialy"
+    "learn/sourceread/onlyoffice/onlyoffice-sdkjs-common-apiBase.js.md"
   ]
 }
