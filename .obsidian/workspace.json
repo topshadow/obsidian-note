@@ -4,86 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "39159e6203a9d571",
+        "id": "9a6878041be3eda4",
         "type": "tabs",
         "children": [
           {
-            "id": "cd65153ca3bf319a",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "dialy/任务看板.md"
-              }
-            }
-          },
-          {
-            "id": "a052bd569cc34222",
+            "id": "c69571b3045526ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn/sourceread/onlyoffice/onlyoffice-sdkjs-common-apiBase.js.md",
+                "file": "learn/micro/frontend/低级组件.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "31b45314da1a4a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn/sourceread/onlyoffice/onlyoffice-sdkjs-common-apiBase.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0fea9c772d85081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn/sourceread/onlyoffice/server/_DocService.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba73abdcc6f03863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn/sourceread/onlyoffice/server/converterService.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d6c6f6684657852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dialy/2023-03-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27afdbecbc613015",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "dialy/任务看板.md"
               }
             }
           }
@@ -153,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dialy/任务看板.md",
+                "file": "learn/micro/frontend/低级组件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dialy/任务看板.md",
+                "file": "learn/micro/frontend/低级组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dialy/任务看板.md"
+                "file": "learn/micro/frontend/低级组件.md"
               }
             }
           },
@@ -223,84 +155,49 @@
       "command-palette:打开命令面板": false
     }
   },
-  "floating": {
-    "id": "6a256ad9709a63db",
-    "type": "floating",
-    "children": [
-      {
-        "id": "97792eb1c02dbb37",
-        "type": "window",
-        "children": [
-          {
-            "id": "f78b888a585287e5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b3a9138e218390db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "dialy/2023-03-21.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 338,
-        "y": 20,
-        "width": 1243,
-        "height": 1010,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "be3c2339835b586f",
+  "active": "c69571b3045526ba",
   "lastOpenFiles": [
-    "dialy/2023-03-21.md",
-    "dialy/2023-03-26.md",
-    "dialy/任务看板.md",
-    "Day Planners/Day Planner-20230404.md",
-    "开发者模式,当处于开发者模式时候,开发者人员会看到更多的关于每个应用以及当前主应用的信息,例如,每个应用注册的权限,设置,并且可以设置应用的默认设置,对于某个租户的设置,例如选取租户，或者利用租户的身份登录,然后开启开发者模式为该租户进行设置.md",
-    "dialy/日记.canvas",
+    "learn/micro/frontend/调试.md",
+    "learn/micro/frontend/微前端布局.md",
+    "learn/micro/frontend/微前端框架.md",
+    "learn/micro/frontend/微前端通信.md",
+    "learn/micro/frontend/微前端的安全性.md",
+    "learn/micro/frontend/高级组件.md",
+    "learn/micro/frontend/低级组件.md",
+    "learn/micro/frontend/微前端议论需知.md",
+    "learn/micro/frontend/中级组件.md",
     "2023-03-27.md",
-    "learn/sourceread/onlyoffice/onlyoffice集成自定义组件.md",
-    "learn/micro/backend/微前端框架.md",
+    "kanban/前端任务看板.md",
+    "kanban/低代码任务看板.md",
+    "kanban/微前端任务看板.md",
+    "kanban/任务看板.md",
+    "learn/sourceread/onlyoffice/server/_DocService.md.md",
+    "learn/sourceread/onlyoffice/server/converterService.md",
+    "Pasted image 20230404150332.png",
+    "主应用组件.md",
+    "appshell.md",
+    "宏-插件-命令-任务.md",
+    "kanban/后端任务看板.md",
+    "kanban/未命名.md",
+    "kanban/低代码.md",
+    "Day Planners/Day Planner-20230404.md",
+    "dialy/日记.canvas",
+    "learn/sourceread/onlyoffice/onlyoffice-sdkjs-common-apiBase.js.md",
+    "dialy/2023-03-26.md",
+    "dialy/2023-03-21.md",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "kanban",
     "Day Planners",
     "learn/micro/backend",
     "learn/micro/frontend",
     "learn/micro",
-    "Excalidraw/微前端事件处理模型.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-24 16.20.39.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
-    "未命名 1.canvas",
-    "Excalidraw/排队叫号.excalidraw.md",
-    "dialy/2023-03-25.md",
-    "Excalidraw/micro-app-drat.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/system-design.excalidrawlib",
     "Excalidraw/Scripts/Downloaded/aws-architecture-icons.excalidrawlib",
     "Excalidraw/Scripts/Downloaded/architecture-diagram-components.excalidrawlib",
     "Excalidraw/Scripts/Downloaded/forms.excalidrawlib",
     "Excalidraw/Scripts/Downloaded/stick-figures.excalidrawlib",
-    "Excalidraw/Scripts/Downloaded/gantt.excalidrawlib",
-    "dialy/未命名.md",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
-    "Excalidraw/Drawing 2023-03-26 00.58.15.excalidraw.md",
-    "dialy/2023-03-24.md",
-    "未命名.canvas",
-    "learn/sourceread/onlyoffice/onlyoffice 流程图.md",
-    "learn/sourceread/onlyoffice/server/_DocService.md.md",
-    "Excalidraw/Drawing 2023-03-24 16.16.04.excalidraw.md",
-    "learn/sourceread/onlyoffice/word/onlyoffice-sdkjs-word-api.js.md",
-    "learn/sourceread/onlyoffice/server/server.js.md",
-    "learn/sourceread/onlyoffice/server/onlyoffice-server-readme.md.md",
-    "learn/sourceread/onlyoffice/server/converterService.md",
-    "learn/sourceread/onlyoffice/server/fileConverter.md",
-    "_DocService.md^ms.md"
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg"
   ]
 }
