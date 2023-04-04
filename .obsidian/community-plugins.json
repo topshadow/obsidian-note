@@ -3,5 +3,7 @@
   "calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-day-planner",
+  "obsidian-tasks-plugin"
 ]

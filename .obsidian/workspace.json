@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b40bb8f43742975d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-03-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d273f62347f8fae3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn/sourceread/onlyoffice/概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cd65153ca3bf319a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "learn/sourceread/onlyoffice/onlyoffice-sdkjs-common-apiBase.js.md",
-                "mode": "source",
-                "source": false
+                "file": "dialy/任务看板.md"
               }
             }
           },
@@ -142,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-27.md",
+                "file": "dialy/任务看板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-27.md",
+                "file": "dialy/任务看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-27.md"
+                "file": "dialy/任务看板.md"
               }
             }
           },
@@ -241,20 +215,66 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "command-palette:打开命令面板": false
     }
+  },
+  "floating": {
+    "id": "6a256ad9709a63db",
+    "type": "floating",
+    "children": [
+      {
+        "id": "97792eb1c02dbb37",
+        "type": "window",
+        "children": [
+          {
+            "id": "f78b888a585287e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b3a9138e218390db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dialy/2023-03-21.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 338,
+        "y": 20,
+        "width": 1243,
+        "height": 1010,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "be3c2339835b586f",
   "lastOpenFiles": [
-    "dialy/任务看板.md",
-    "2023-03-27.md",
-    "dialy/日记.canvas",
+    "dialy/2023-03-21.md",
     "dialy/2023-03-26.md",
+    "dialy/任务看板.md",
+    "Day Planners/Day Planner-20230404.md",
+    "开发者模式,当处于开发者模式时候,开发者人员会看到更多的关于每个应用以及当前主应用的信息,例如,每个应用注册的权限,设置,并且可以设置应用的默认设置,对于某个租户的设置,例如选取租户，或者利用租户的身份登录,然后开启开发者模式为该租户进行设置.md",
+    "dialy/日记.canvas",
+    "2023-03-27.md",
+    "learn/sourceread/onlyoffice/onlyoffice集成自定义组件.md",
+    "learn/micro/backend/微前端框架.md",
+    "Day Planners",
+    "learn/micro/backend",
+    "learn/micro/frontend",
+    "learn/micro",
     "Excalidraw/微前端事件处理模型.excalidraw.md",
     "Excalidraw/Drawing 2023-03-24 16.20.39.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
@@ -268,16 +288,10 @@
     "Excalidraw/Scripts/Downloaded/forms.excalidrawlib",
     "Excalidraw/Scripts/Downloaded/stick-figures.excalidrawlib",
     "Excalidraw/Scripts/Downloaded/gantt.excalidrawlib",
-    "Excalidraw/Scripts/Downloaded/stick-people.excalidrawlib",
     "dialy/未命名.md",
-    "dialy/2023-03-21.md",
-    "Excalidraw/Scripts/Downloaded/software-architecture.excalidrawlib",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Excalidraw/Drawing 2023-03-26 00.58.15.excalidraw.md",
     "dialy/2023-03-24.md",
-    "onlyoffice集成自定义组件.md",
     "未命名.canvas",
     "learn/sourceread/onlyoffice/onlyoffice 流程图.md",
     "learn/sourceread/onlyoffice/server/_DocService.md.md",
@@ -287,8 +301,6 @@
     "learn/sourceread/onlyoffice/server/onlyoffice-server-readme.md.md",
     "learn/sourceread/onlyoffice/server/converterService.md",
     "learn/sourceread/onlyoffice/server/fileConverter.md",
-    "_DocService.md^ms.md",
-    "learn/sourceread/onlyoffice/概述.md",
-    "learn/sourceread/onlyoffice/onlyoffice-sdkjs-common-apiBase.js.md"
+    "_DocService.md^ms.md"
   ]
 }
